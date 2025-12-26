@@ -1,1 +1,1 @@
-print("Hello from Dockerized Python!")
+print("Docker python")
